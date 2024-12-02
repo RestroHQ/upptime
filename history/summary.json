@@ -4,7 +4,7 @@
     "url": "https://api.restrohq.us.kg",
     "icon": "https://icons.duckduckgo.com/ip3/api.restrohq.us.kg.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "98.23%",
     "uptimeWeek": "99.75%",
@@ -16,6 +16,7 @@
     "timeMonth": 2304,
     "timeYear": 2304,
     "dailyMinutesDown": {
+      "2024-12-02": 0,
       "2024-12-01": 26
     }
   }
