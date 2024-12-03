@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.restrohq.us.kg.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "98.23%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "96.04%",
+    "uptimeDay": "48.82%",
+    "uptimeWeek": "92.44%",
+    "uptimeMonth": "96.04%",
+    "uptimeYear": "96.04%",
     "time": 2304,
-    "timeDay": 5586,
-    "timeWeek": 3051,
+    "timeDay": 0,
+    "timeWeek": 3329,
     "timeMonth": 2304,
     "timeYear": 2304,
     "dailyMinutesDown": {
-      "2024-12-02": 0,
+      "2024-12-03": 98,
+      "2024-12-02": 639,
       "2024-12-01": 26
     }
   }
